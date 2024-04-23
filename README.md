@@ -35,5 +35,5 @@ The online store will allow the following actions to be performed:
 ● Purchase of products “added to cart”.
 
 ## Built with 
-Laravel - The framework used
-Mysql - Database
+-> Laravel - The framework used
+-> Mysql - Database
