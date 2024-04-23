@@ -36,4 +36,5 @@ The online store will allow the following actions to be performed:
 
 ## Built with 
 -> Laravel - The framework used
+
 -> Mysql - Database
